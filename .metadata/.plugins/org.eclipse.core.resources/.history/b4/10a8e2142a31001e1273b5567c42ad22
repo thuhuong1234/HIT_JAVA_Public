@@ -1,0 +1,27 @@
+package Buoi1;
+
+import java.util.Scanner;
+
+public class JAVA_PUBLIC {
+	public static void main(String[] args) {
+		//xuat
+		System.out.print("Hello MaiLinh");
+		//nhap
+		 Scanner myObj = new Scanner(System.in); 
+		 
+		 
+		 // Read user input
+		 // Output user input
+		 System.out.println("\nEnter username");
+		String userName = myObj.nextLine();  
+		 System.out.println("\nEnter age:"); 
+		 int age = myObj.nextInt();
+		 System.out.println("\nEnter salary:");
+		 double salary = myObj.nextDouble();
+
+		    // Output input by user 
+		 System.out.println("\nUsername is: " + userName); 
+		 System.out.println("Age: " + age);
+		 System.out.println("Salary: " + salary);
+	}
+}

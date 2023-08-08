@@ -1,0 +1,16 @@
+package Buoi1;
+
+import java.util.Scanner;
+
+public class JAVA_PUBLIC {
+	public static void main(String[] args) {
+		//xuat
+		System.out.print("Hello MaiLinh");
+		//nhap
+		 Scanner myObj = new Scanner(System.in); 
+		 System.out.println("Enter username");
+		 
+		 String userName = myObj.nextLine();  // Read user input
+		 System.out.println("Username is: " + userName);  // Output user input
+	}
+}
