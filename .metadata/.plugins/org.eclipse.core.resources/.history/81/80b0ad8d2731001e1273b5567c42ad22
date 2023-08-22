@@ -1,7 +1,0 @@
-package Buoi1;
-
-public class JAVA_PUBLIC {
-	public static void main(String[] args) {
-		System.out.print("Hello MaiLinh");
-	}
-}
