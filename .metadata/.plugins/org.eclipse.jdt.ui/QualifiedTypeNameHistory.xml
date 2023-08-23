@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="Btvn.Bai3"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="sun.jvm.hotspot.oops.java_lang_Class"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="com.sun.tools.sjavac.server.SysInfo"/>
-    <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.SWAP"/>
-</qualifiedTypeNameHistroy>
